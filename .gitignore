@@ -1,5 +1,8 @@
 *.pyc
 __pycache__
 myvenv
+playground
+.vscode
 db.sqlite3
 .DS_Store
+myproject
